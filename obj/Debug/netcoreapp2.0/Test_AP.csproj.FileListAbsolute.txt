@@ -1,0 +1,22 @@
+E:\C_Sharp_Project\BT1\Test_AP\Test_AP\bin\Debug\netcoreapp2.0\Test_AP.deps.json
+E:\C_Sharp_Project\BT1\Test_AP\Test_AP\bin\Debug\netcoreapp2.0\Test_AP.runtimeconfig.json
+E:\C_Sharp_Project\BT1\Test_AP\Test_AP\bin\Debug\netcoreapp2.0\Test_AP.runtimeconfig.dev.json
+E:\C_Sharp_Project\BT1\Test_AP\Test_AP\bin\Debug\netcoreapp2.0\Test_AP.dll
+E:\C_Sharp_Project\BT1\Test_AP\Test_AP\bin\Debug\netcoreapp2.0\Test_AP.pdb
+E:\C_Sharp_Project\BT1\Test_AP\Test_AP\obj\Debug\netcoreapp2.0\Test_AP.csprojAssemblyReference.cache
+E:\C_Sharp_Project\BT1\Test_AP\Test_AP\obj\Debug\netcoreapp2.0\Test_AP.csproj.CoreCompileInputs.cache
+E:\C_Sharp_Project\BT1\Test_AP\Test_AP\obj\Debug\netcoreapp2.0\Test_AP.AssemblyInfoInputs.cache
+E:\C_Sharp_Project\BT1\Test_AP\Test_AP\obj\Debug\netcoreapp2.0\Test_AP.AssemblyInfo.cs
+E:\C_Sharp_Project\BT1\Test_AP\Test_AP\obj\Debug\netcoreapp2.0\Test_AP.dll
+E:\C_Sharp_Project\BT1\Test_AP\Test_AP\obj\Debug\netcoreapp2.0\Test_AP.pdb
+C:\Users\Sac Xuan.PC.000\RiderProjects\Test_AP\Test_AP\Test_AP\bin\Debug\netcoreapp2.0\Test_AP.deps.json
+C:\Users\Sac Xuan.PC.000\RiderProjects\Test_AP\Test_AP\Test_AP\bin\Debug\netcoreapp2.0\Test_AP.runtimeconfig.json
+C:\Users\Sac Xuan.PC.000\RiderProjects\Test_AP\Test_AP\Test_AP\bin\Debug\netcoreapp2.0\Test_AP.runtimeconfig.dev.json
+C:\Users\Sac Xuan.PC.000\RiderProjects\Test_AP\Test_AP\Test_AP\bin\Debug\netcoreapp2.0\Test_AP.dll
+C:\Users\Sac Xuan.PC.000\RiderProjects\Test_AP\Test_AP\Test_AP\bin\Debug\netcoreapp2.0\Test_AP.pdb
+C:\Users\Sac Xuan.PC.000\RiderProjects\Test_AP\Test_AP\Test_AP\obj\Debug\netcoreapp2.0\Test_AP.csprojAssemblyReference.cache
+C:\Users\Sac Xuan.PC.000\RiderProjects\Test_AP\Test_AP\Test_AP\obj\Debug\netcoreapp2.0\Test_AP.csproj.CoreCompileInputs.cache
+C:\Users\Sac Xuan.PC.000\RiderProjects\Test_AP\Test_AP\Test_AP\obj\Debug\netcoreapp2.0\Test_AP.AssemblyInfoInputs.cache
+C:\Users\Sac Xuan.PC.000\RiderProjects\Test_AP\Test_AP\Test_AP\obj\Debug\netcoreapp2.0\Test_AP.AssemblyInfo.cs
+C:\Users\Sac Xuan.PC.000\RiderProjects\Test_AP\Test_AP\Test_AP\obj\Debug\netcoreapp2.0\Test_AP.dll
+C:\Users\Sac Xuan.PC.000\RiderProjects\Test_AP\Test_AP\Test_AP\obj\Debug\netcoreapp2.0\Test_AP.pdb
